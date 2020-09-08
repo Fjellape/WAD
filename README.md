@@ -1,5 +1,5 @@
 # WAD
 
-## Lab first
+## Lab session 1
 
 - Kristo
